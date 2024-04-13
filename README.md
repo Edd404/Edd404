@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/Edd404">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Edd404&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edd404&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Edd404&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edd404&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
     
 <div style="display: inline_block" align="center"><br>
