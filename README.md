@@ -1,14 +1,13 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FFA500&reversal=true&textBg=false&descAlign=35&descAlignY=75"/>
+
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Eder+Muniz!"Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=DAA520&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Eder+Muniz!"Typing SVG">
   </a>
 </p>
 
-<div align="center">
-  
-👨‍🎓 Sou estudante de análise e desenvolvimento de sistemas em processo de transição de carreira. 
 
-</div>
 
 <div align="center">
   <a href="https://github.com/Edd404">
@@ -35,3 +34,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edd404/Edd404/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Edd404/Edd404/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FFA500&reversal=true&textBg=false&descAlign=35&descAlignY=75&section=footer"/>
